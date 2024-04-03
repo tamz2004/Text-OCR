@@ -25,7 +25,7 @@ Text OCR  is a simple desktop application built using Python and Tkinter. It all
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/text-ocr-tool.git
+   git clone https://github.com/tamz2004/text-ocr.git
    
 1. Install the required dependencies:
 
@@ -35,9 +35,20 @@ Text OCR  is a simple desktop application built using Python and Tkinter. It all
 2. Run the File
 
   ```bash
-    python ocr.py
+   python ocr.py
+```
+## Usage
+
+1. Launch the application by running text_ocr_tool.py.
+2. Click on the "Browse" button to select an image file or an Excel file.
+3. The application will extract text from the selected file and display it in the text area.
+4. Choose the desired format (text, PDF, DOCX, or Excel) from the save options dialog.
+5. Optionally, choose the output directory for saving the file.
+6. Click the "Save" button to save the extracted text in the selected format.    
 
 
+## Contribution
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-
-   
+## License
+This project is licensed under the MIT License - see the LICENSE
