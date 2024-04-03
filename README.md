@@ -25,7 +25,7 @@ Text OCR  is a simple desktop application built using Python and Tkinter. It all
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tamz2004/text-ocr.git
+   git clone https://github.com/tamz2004/Text-OCR
    
 1. Install the required dependencies:
 
